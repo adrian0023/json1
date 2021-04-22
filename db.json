@@ -1,0 +1,23 @@
+{"comics":
+[
+
+  {
+    "id": 1,
+    "nombre": "Samsung 860 EVO Basic SSD 500GB SATA3",
+    "vistas": 23,
+    "likes": 4,
+    "precio": 95.99,
+    "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/14/149210/evo860-1.jpg",
+    "id_categoria": 3
+  },
+  {
+    "id": 2,
+    "nombre": "WD Blue 3D Nand SSD SATA 1TB",
+    "vistas": 31,
+    "likes": 12,
+    "precio": 123,
+    "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/14/146650/1.jpg",
+    "id_categoria": 3
+  }
+ ]
+ }
