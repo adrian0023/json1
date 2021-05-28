@@ -1,172 +1,46 @@
 [
   {
-    "id": "the-promised-neverland",
-    "nombre": "The promised neverland",
-    "imagen": "/img/img_tienda/mangas/the-promised-neverland/the-promised-neverland-01.jpg",
-    "num_tomos": 20,
-    "tomos": [
+    "id": "1",
+    "titulo": "Heroes Reborn. El Escuadrón Supremo",
+    "imagen": "https://www.zonanegativa.com/imagenes/2021/05/Squadron-Supreme-of-America.jpg",
+    "descripcion": "Con la publicación en USA del arco Heroes Reborn, vuelve a la actualidad el Escuadrón Supremo, ese remedo la Liga de la Justicia de DC, surgido en los sesenta, y que ha llegado hasta nuestros días, bajo diferentes variantes. Os dejamos una amplia retrospectiva para que estéis informados acerca de cualquier detalle del supergrupo.",
+    "num_parrafos": 3,
+    "parrafos": [
       {
-        "id_tomo": 1,
-        "nombre_tomo": "01 - The promised neverland",
-        "imagen_tomo": "",
-        "enlace": ""
+        "id_parrafo": 1,
+        "Texto": ""
+        "imagen"
       },
       {
-        "id_tomos": 2,
-        "nombre_tomo": "02 - The promised neverland",
-        "imagen_tomo": "",
-        "enlace": ""
+        "id_parrafo": 2,
+        "Texto": ""
+        "imagen"
       },
       {
-        "id_tomos": 2,
-        "nombre_tomo": "03 - The promised neverland",
-        "imagen_tomo": "",
-        "enlace": ""
+        "id_parrafo": 3,
+        "Texto": ""
+        "imagen"
       },
-      {
-        "id_tomos": 4,
-        "nombre_tomo": "04 - The promised neverland",
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 5,
-        "nombre_tomo": "05 - The promised neverland",
-        "imagen_tomo": "",
-        "enlace": ""
-      }
     ]
   },
   {
-    "id": "guardianes-de-la-noche",
-    "nombre": "Guardianes de la noche",
-    "imagen": "/img/img_tienda/mangas/guardianes-de-la-noche/guardianes-de-la-noche-01.jpg",
-    "num_tomos": 20,
-    "tomos": [
+    "id": "2",
+    "titulo": "Entrevista a Paco Sordo y reseña de El pacto",
+    "imagen": "https://www.zonanegativa.com/imagenes/2021/05/paco-sordo-autoretrato-300x300.jpg",
+    "descripcion": "Hace unas pocas semanas Nuevo Nueve ha publicado El Pacto, la interesantísima primera novela gráfica de Paco Sordo. Así que hemos querido entrevistarle para que nos hable sobre ella.",
+    "num_parrafos": 2,
+    "parrafos": [
       {
-        "id_tomo": 1,
-        "imagen_tomo": "",
-        "enlace": ""
+        "id_parrafo": 1,
+        "Texto": ""
+        "imagen"
       },
       {
-        "id_tomo": 2,
-        "imagen_tomo": "",
-        "enlace": ""
+        "id_parrafo": 1,
+        "Texto": ""
+        "imagen"
       },
-      {
-        "id_tomo": 3,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomo": 4,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomo": 5,
-        "imagen_tomo": "",
-        "enlace": ""
-      }
-    ]
-  },
-  {
-    "id": "jujutsu-kaisen",
-    "nombre": "Jujutsu Kaisen",
-    "imagen": "/img/img_tienda/mangas/jujutsu-kaisen/jujutsu-kaisen-01.jpg",
-    "num_tomos": 6,
-    "tomos": [
-      {
-        "id_tomo": 1,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 2,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 3,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 4,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 5,
-        "imagen_tomo": "",
-        "enlace": ""
-      }
-    ]
-  },
-  {
-    "id": "tokyo-ghoul",
-    "nombre": "Tokyo Ghoul",
-    "imagen": "/img/img_tienda/mangas/tokyo-ghoul/tokyo-ghoul-01.jpg",
-    "num_tomos": 14,
-    "tomos": [
-      {
-        "id_tomo": 1,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 2,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 3,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 4,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 5,
-        "imagen_tomo": "",
-        "enlace": ""
-      }
-    ]
-  },
-  {
-    "id": "my-hero-academia",
-    "nombre": "My hero academia",
-    "imagen": "/img/img_tienda/mangas/my-hero-academia/my-hero-academia-01.jpg",
-    "num_tomos": 30,
-    "tomos": [
-      {
-        "id_tomo": 1,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 2,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 3,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 4,
-        "imagen_tomo": "",
-        "enlace": ""
-      },
-      {
-        "id_tomos": 5,
-        "imagen_tomo": "",
-        "enlace": ""
-      }
     ]
   }
+  
 ]
