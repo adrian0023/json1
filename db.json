@@ -1,23 +1,18 @@
-{"comics":
+{"noticias":
 [
 
   {
     "id": 1,
-    "nombre": "Samsung 860 EVO Basic SSD 500GB SATAlolw",
-    "vistas": 23,
-    "likes": 4,
-    "precio": 95.99,
-    "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/14/149210/evo860-1.jpg",
-    "id_categoria": 3
+    "Titulo": "Entrevista a Paco Sordo y reseña de El pacto",
+    "Texto" : "Hace unas pocas semanas Nuevo Nueve ha publicado El Pacto, la interesantísima primera novela gráfica de Paco Sordo. Así que hemos querido entrevistarle para que nos hable sobre ella."
+    "imagen": "https://www.zonanegativa.com/imagenes/2021/05/paco-sordo-autoretrato-300x300.jpg"
+    
   },
   {
     "id": 2,
-    "nombre": "WD Blue 3D Nand SSD SATA 1TB",
-    "vistas": 31,
-    "likes": 12,
-    "precio": 123,
-    "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/14/146650/1.jpg",
-    "id_categoria": 3
+    "Titulo": "Heroes Reborn. El Escuadrón Supremo",
+    "Texto" : "Heroes Reborn vuelve a ser actualidad. No hablamos de aquel invento de mediados de los años 90, un infausto recuerdo para muchos, sino del evento pertrechado por Jason Aaron en la colección de los Vengadores. Actualmente en desarrollo en USA, nuestra intención no es analizar los cómics en cuestión, algo de lo que habrá tiempo a su conclusión. Más bien nos ha dado por fijarnos en uno de los protagonistas del mismo, el Escuadrón Supremo, una formación con una larga tradición a sus espaldas y con una interesante intrahistoria que descubrir."
+    "imagen": "https://www.zonanegativa.com/imagenes/2021/05/7823885-2.jpg"
   }
  ]
  }
