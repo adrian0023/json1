@@ -1,48 +1,48 @@
 {
-  "Noticias":[
-  {
-    "id": "1",
-    "titulo": "Heroes Reborn. El Escuadrón Supremo",
-    "imagen": "https://www.zonanegativa.com/imagenes/2021/05/Squadron-Supreme-of-America.jpg",
-    "descripcion": "Con la publicación en USA del arco Heroes Reborn, vuelve a la actualidad el Escuadrón Supremo, ese remedo la Liga de la Justicia de DC, surgido en los sesenta, y que ha llegado hasta nuestros días, bajo diferentes variantes. Os dejamos una amplia retrospectiva para que estéis informados acerca de cualquier detalle del supergrupo.",
-    "num_parrafos": 3,
-    "parrafos": [
-      {
-        "id_parrafo": 1,
-        "Texto": "Heroes Reborn vuelve a ser actualidad. No hablamos de aquel invento de mediados de los años 90, un infausto recuerdo para muchos, sino del evento pertrechado por Jason Aaron en la colección de los Vengadores. Actualmente en desarrollo en USA, nuestra intención no es analizar los cómics en cuestión, algo de lo que habrá tiempo a su conclusión. Más bien nos ha dado por fijarnos en uno de los protagonistas del mismo, el Escuadrón Supremo, una formación con una larga tradición a sus espaldas y con una interesante intrahistoria que descubrir.",
-        "imagen": ""
-      },
-      {
-        "id_parrafo": 2,
-        "Texto": "Cómo sería un mundo sin Vengadores, viene a ser la pregunta de Aaron al aficionado Marvel. Y su respuesta no es otra que el Escuadrón. Para comprender algo mejor la historia, dejamos una amplia retrospectiva sobre el supergrupo.",
-        "imagen": ""
-      },
-      {
-        "id_parrafo": 3,
-        "Texto": "Marvel Comics parece que quiere que no olvidemos esa época en la que perdió el horizonte y se denominó Heroes Reborn. Fue algo infame a nivel creativo pero enormemente impactante, enviando a los Vengadores y los Cuatro Fantásticos a su propio mundo apartados del resto de los héroes, como la Patrulla-X o Spiderman. Aunque el nuevo Heroes Reborn surge del arco actual de los Vengadores, “Enter the Phoenix“, los Héroes más Poderosos de la Tierra no “renacerán” esta vez. En este nuevo mundo, los Vengadores nunca se formaron, los héroes que serán “renacidos” en esta nueva realidad son el Escuadrón Supremo.",
-        "imagen": "https://www.zonanegativa.com/imagenes/2021/05/7823885-2.jpg"
-      }
-    ]
-  },
-  {
-    "id": "2",
-    "titulo": "Entrevista a Paco Sordo y reseña de El pacto",
-    "imagen": "https://www.zonanegativa.com/imagenes/2021/05/paco-sordo-autoretrato-300x300.jpg",
-    "descripcion": "Hace unas pocas semanas Nuevo Nueve ha publicado El Pacto, la interesantísima primera novela gráfica de Paco Sordo. Así que hemos querido entrevistarle para que nos hable sobre ella.",
-    "num_parrafos": 2,
-    "parrafos": [
-      {
-        "id_parrafo": 1,
-        "Texto": "",
-        "imagen": "Paco Sordo es un historietista, diseñador gráfico, animador e ilustrador nacido en El Puerto de Santa María (Cádiz) en el año 1978. En sus facetas de animador y diseñador ha trabajado para Nickelodeon, Ogilvy, Rovio, ING Direct, Vodafone o Movistar. Además, trabaja como ilustrador e historietista freelance. En el mundo del cómic es conocido sobre todo por sus trabajos de humor entre los que destacan su serie Internet, modo de empleo publicado entre 2010 y 2014 en la revista El Jueves y sus colaboraciones para la revista digital Orgullo y satisfacción con la serie Tebeos Basura. Unos trabajos que ha compatibilizado con la ilustración de cómic y libros infantiles para España y recientemente para el mercado francófono."
-      },
-      {
-        "id_parrafo": 1,
-        "Texto": "Paco Sordo (PS): Muchísimas gracias. Sí, es una de esas ideas que tienes siempre en algún sitio del disco duro de la cabeza y que va mutando con el tiempo. Creo que el origen de todo fue al leer Los profesionales de Carlos Giménez. Si hay un tipo de cómic que considero irresistible y que se salta todos los puestos en mi pila de lectura, son los que cuentan cosas de la propia historia del cómic. A ser posible trapos sucios, jaja. Es un tema que me fascina y siempre había querido hacer algo así. En su día, era una idea muy sencilla, contar la historia de un dibujante ficticio de Bruguera. Algo así como lo que hizo Clowes con Pussey!, que es otra lectura que vino después y que creo que también tiene algo que ver con el origen de esta historia. Pero pronto se me ocurrió mezclarlo con un trasunto de otros personajes que tenía por ahí y que publiqué de chaval en la revista Freek! Se trataba de un señor perturbado y su amigo imaginario, un pato.",
-        "imagen": "https://www.zonanegativa.com/imagenes/2021/03/el-pacto-300x428.jpg"
-      }
-    ]
+    "Noticias":[
+    {
+      "id": "1",
+      "titulo": "Heroes Reborn. El Escuadrón Supremo",
+      "imagen": "https://www.zonanegativa.com/imagenes/2021/05/Squadron-Supreme-of-America.jpg",
+      "descripcion": "Con la publicación en USA del arco Heroes Reborn, vuelve a la actualidad el Escuadrón Supremo, ese remedo la Liga de la Justicia de DC, surgido en los sesenta, y que ha llegado hasta nuestros días, bajo diferentes variantes. Os dejamos una amplia retrospectiva para que estéis informados acerca de cualquier detalle del supergrupo.",
+      "num_parrafos": 3,
+      "parrafos": [
+        {
+          "id_parrafo": 1,
+          "Texto": "Heroes Reborn vuelve a ser actualidad. No hablamos de aquel invento de mediados de los años 90, un infausto recuerdo para muchos, sino del evento pertrechado por Jason Aaron en la colección de los Vengadores. Actualmente en desarrollo en USA, nuestra intención no es analizar los cómics en cuestión, algo de lo que habrá tiempo a su conclusión. Más bien nos ha dado por fijarnos en uno de los protagonistas del mismo, el Escuadrón Supremo, una formación con una larga tradición a sus espaldas y con una interesante intrahistoria que descubrir.",
+          "imagen": ""
+        },
+        {
+          "id_parrafo": 2,
+          "Texto": "Cómo sería un mundo sin Vengadores, viene a ser la pregunta de Aaron al aficionado Marvel. Y su respuesta no es otra que el Escuadrón. Para comprender algo mejor la historia, dejamos una amplia retrospectiva sobre el supergrupo.",
+          "imagen": ""
+        },
+        {
+          "id_parrafo": 3,
+          "Texto": "Marvel Comics parece que quiere que no olvidemos esa época en la que perdió el horizonte y se denominó Heroes Reborn. Fue algo infame a nivel creativo pero enormemente impactante, enviando a los Vengadores y los Cuatro Fantásticos a su propio mundo apartados del resto de los héroes, como la Patrulla-X o Spiderman. Aunque el nuevo Heroes Reborn surge del arco actual de los Vengadores, “Enter the Phoenix“, los Héroes más Poderosos de la Tierra no “renacerán” esta vez. En este nuevo mundo, los Vengadores nunca se formaron, los héroes que serán “renacidos” en esta nueva realidad son el Escuadrón Supremo.",
+          "imagen": "https://www.zonanegativa.com/imagenes/2021/05/7823885-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "titulo": "Entrevista a Paco Sordo y reseña de El pacto",
+      "imagen": "https://www.zonanegativa.com/imagenes/2021/05/paco-sordo-autoretrato-300x300.jpg",
+      "descripcion": "Hace unas pocas semanas Nuevo Nueve ha publicado El Pacto, la interesantísima primera novela gráfica de Paco Sordo. Así que hemos querido entrevistarle para que nos hable sobre ella.",
+      "num_parrafos": 2,
+      "parrafos": [
+        {
+          "id_parrafo": 1,
+          "Texto": "",
+          "imagen": "Paco Sordo es un historietista, diseñador gráfico, animador e ilustrador nacido en El Puerto de Santa María (Cádiz) en el año 1978. En sus facetas de animador y diseñador ha trabajado para Nickelodeon, Ogilvy, Rovio, ING Direct, Vodafone o Movistar. Además, trabaja como ilustrador e historietista freelance. En el mundo del cómic es conocido sobre todo por sus trabajos de humor entre los que destacan su serie Internet, modo de empleo publicado entre 2010 y 2014 en la revista El Jueves y sus colaboraciones para la revista digital Orgullo y satisfacción con la serie Tebeos Basura. Unos trabajos que ha compatibilizado con la ilustración de cómic y libros infantiles para España y recientemente para el mercado francófono."
+        },
+        {
+          "id_parrafo": 2,
+          "Texto": "Paco Sordo (PS): Muchísimas gracias. Sí, es una de esas ideas que tienes siempre en algún sitio del disco duro de la cabeza y que va mutando con el tiempo. Creo que el origen de todo fue al leer Los profesionales de Carlos Giménez. Si hay un tipo de cómic que considero irresistible y que se salta todos los puestos en mi pila de lectura, son los que cuentan cosas de la propia historia del cómic. A ser posible trapos sucios, jaja. Es un tema que me fascina y siempre había querido hacer algo así. En su día, era una idea muy sencilla, contar la historia de un dibujante ficticio de Bruguera. Algo así como lo que hizo Clowes con Pussey!, que es otra lectura que vino después y que creo que también tiene algo que ver con el origen de esta historia. Pero pronto se me ocurrió mezclarlo con un trasunto de otros personajes que tenía por ahí y que publiqué de chaval en la revista Freek! Se trataba de un señor perturbado y su amigo imaginario, un pato.",
+          "imagen": "https://www.zonanegativa.com/imagenes/2021/03/el-pacto-300x428.jpg"
+        }
+      ]
+    }
+   ]
   }
- ]
-}
-
+  
