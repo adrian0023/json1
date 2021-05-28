@@ -1,18 +1,38 @@
-{"noticias":
 [
-
   {
-    "id": 1,
-    "Titulo": "Entrevista a Paco Sordo y reseña de El pacto",
-    "Texto" : "Hace unas pocas semanas Nuevo Nueve ha publicado El Pacto, la interesantísima primera novela gráfica de Paco Sordo. Así que hemos querido entrevistarle para que nos hable sobre ella."
-    "imagen": "https://www.zonanegativa.com/imagenes/2021/05/paco-sordo-autoretrato-300x300.jpg"
-    
-  },
-  {
-    "id": 2,
-    "Titulo": "Heroes Reborn. El Escuadrón Supremo",
-    "Texto" : "Heroes Reborn vuelve a ser actualidad. No hablamos de aquel invento de mediados de los años 90, un infausto recuerdo para muchos, sino del evento pertrechado por Jason Aaron en la colección de los Vengadores. Actualmente en desarrollo en USA, nuestra intención no es analizar los cómics en cuestión, algo de lo que habrá tiempo a su conclusión. Más bien nos ha dado por fijarnos en uno de los protagonistas del mismo, el Escuadrón Supremo, una formación con una larga tradición a sus espaldas y con una interesante intrahistoria que descubrir."
-    "imagen": "https://www.zonanegativa.com/imagenes/2021/05/7823885-2.jpg"
-  }
- ]
- }
+    "id": "the-promised-neverland",
+    "nombre": "The promised neverland",
+    "imagen": "/img/img_tienda/mangas/the-promised-neverland/the-promised-neverland-01.jpg",
+    "num_tomos": 20,
+    "tomos": [
+      {
+        "id_tomo": 1,
+        "nombre_tomo": "01 - The promised neverland",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 2,
+        "nombre_tomo": "02 - The promised neverland",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 2,
+        "nombre_tomo": "03 - The promised neverland",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 4,
+        "nombre_tomo": "04 - The promised neverland",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 5,
+        "nombre_tomo": "05 - The promised neverland",
+        "imagen_tomo": "",
+        "enlace": ""
+      }
+    ]
