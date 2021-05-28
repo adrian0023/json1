@@ -1,23 +1,172 @@
 [
   {
-    "id": "1",
-    "Titulo": "Heroes Reborn",
-    "imagen": "https://www.zonanegativa.com/imagenes/2021/05/Squadron-Supreme-of-America.jpg",
-    "num_parrafos": 3,
-    "parrafos": [
+    "id": "the-promised-neverland",
+    "nombre": "The promised neverland",
+    "imagen": "/img/img_tienda/mangas/the-promised-neverland/the-promised-neverland-01.jpg",
+    "num_tomos": 20,
+    "tomos": [
       {
-        "parrafo": 1,
-        "Texto": "Con la publicación en USA del arco Heroes Reborn, vuelve a la actualidad el Escuadrón Supremo, ese remedo la Liga de la Justicia de DC, surgido en los sesenta, y que ha llegado hasta nuestros días, bajo diferentes variantes. Os dejamos una amplia retrospectiva para que estéis informados acerca de cualquier detalle del supergrupo."
+        "id_tomo": 1,
+        "nombre_tomo": "01 - The promised neverland",
+        "imagen_tomo": "",
+        "enlace": ""
       },
       {
-         "parrafo": 2,
-        "Texto": "Heroes Reborn vuelve a ser actualidad. No hablamos de aquel invento de mediados de los años 90, un infausto recuerdo para muchos, sino del evento pertrechado por Jason Aaron en la colección de los Vengadores. Actualmente en desarrollo en USA, nuestra intención no es analizar los cómics en cuestión, algo de lo que habrá tiempo a su conclusión. Más bien nos ha dado por fijarnos en uno de los protagonistas del mismo, el Escuadrón Supremo, una formación con una larga tradición a sus espaldas y con una interesante intrahistoria que descubrir."
+        "id_tomos": 2,
+        "nombre_tomo": "02 - The promised neverland",
+        "imagen_tomo": "",
+        "enlace": ""
       },
       {
-         "parrafo": 3,
-        "Texto": "Cómo sería un mundo sin Vengadores, viene a ser la pregunta de Aaron al aficionado Marvel. Y su respuesta no es otra que el Escuadrón. Para comprender algo mejor la historia, dejamos una amplia retrospectiva sobre el supergrupo."
+        "id_tomos": 2,
+        "nombre_tomo": "03 - The promised neverland",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 4,
+        "nombre_tomo": "04 - The promised neverland",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 5,
+        "nombre_tomo": "05 - The promised neverland",
+        "imagen_tomo": "",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "id": "guardianes-de-la-noche",
+    "nombre": "Guardianes de la noche",
+    "imagen": "/img/img_tienda/mangas/guardianes-de-la-noche/guardianes-de-la-noche-01.jpg",
+    "num_tomos": 20,
+    "tomos": [
+      {
+        "id_tomo": 1,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomo": 2,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomo": 3,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomo": 4,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomo": 5,
+        "imagen_tomo": "",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "id": "jujutsu-kaisen",
+    "nombre": "Jujutsu Kaisen",
+    "imagen": "/img/img_tienda/mangas/jujutsu-kaisen/jujutsu-kaisen-01.jpg",
+    "num_tomos": 6,
+    "tomos": [
+      {
+        "id_tomo": 1,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 2,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 3,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 4,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 5,
+        "imagen_tomo": "",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "id": "tokyo-ghoul",
+    "nombre": "Tokyo Ghoul",
+    "imagen": "/img/img_tienda/mangas/tokyo-ghoul/tokyo-ghoul-01.jpg",
+    "num_tomos": 14,
+    "tomos": [
+      {
+        "id_tomo": 1,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 2,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 3,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 4,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 5,
+        "imagen_tomo": "",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "id": "my-hero-academia",
+    "nombre": "My hero academia",
+    "imagen": "/img/img_tienda/mangas/my-hero-academia/my-hero-academia-01.jpg",
+    "num_tomos": 30,
+    "tomos": [
+      {
+        "id_tomo": 1,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 2,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 3,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 4,
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+      {
+        "id_tomos": 5,
+        "imagen_tomo": "",
+        "enlace": ""
       }
     ]
   }
- ]
-   
+]
