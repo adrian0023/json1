@@ -1,4 +1,5 @@
-[
+{
+  "Noticias":[
   {
     "id": "1",
     "titulo": "Heroes Reborn. El Escuadrón Supremo",
@@ -42,4 +43,6 @@
       },
     ]
   }
+ ]
+}
 
